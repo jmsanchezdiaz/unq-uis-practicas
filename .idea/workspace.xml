@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f9d615a-a872-4774-b87f-3476272f6e2e" name="Changes" comment="EJ 1 AND 2 FROM PRACTICA 1 ARENA">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="0f9d615a-a872-4774-b87f-3476272f6e2e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +53,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.AppKt">
+  <component name="RunManager" selected="Kotlin.MainApp2Kt">
     <configuration name="AppKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.unq.uis.arena.practica1.ej2.AppKt" />
       <module name="Practica1" />
@@ -67,10 +63,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainAppKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.unq.uis.arena.practica1.MainAppKt" />
+    <configuration name="MainApp2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.unq.uis.arena.practica1.ej3.MainApp2Kt" />
       <module name="Practica1" />
-      <option name="PROGRAM_PARAMETERS" value="-Djava.system.class.loader=org.uqbar.apo.APOClassLoader" />
+      <shortenClasspath name="NONE" />
+      <option name="VM_PARAMETERS" value="-Djava.system.class.loader=org.uqbar.apo.APOClassLoader" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainAppKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.unq.uis.arena.practica3.MainAppKt" />
+      <module name="Practica1" />
+      <shortenClasspath name="NONE" />
+      <option name="VM_PARAMETERS" value="-Djava.system.class.loader=org.uqbar.apo.APOClassLoader" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainAppKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.unq.uis.arena.practica1.ej3.MainAppKt" />
+      <module name="Practica1" />
       <shortenClasspath name="NONE" />
       <option name="VM_PARAMETERS" value="-Djava.system.class.loader=org.uqbar.apo.APOClassLoader" />
       <method v="2">
@@ -78,13 +91,16 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Kotlin.MainApp2Kt" />
       <item itemvalue="Kotlin.AppKt" />
       <item itemvalue="Kotlin.MainAppKt" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.AppKt" />
+        <item itemvalue="Kotlin.MainApp2Kt" />
         <item itemvalue="Kotlin.MainAppKt" />
+        <item itemvalue="Kotlin.MainAppKt" />
+        <item itemvalue="Kotlin.AppKt" />
       </list>
     </recent_temporary>
   </component>
@@ -99,8 +115,17 @@
       <workItem from="1662085863853" duration="2419000" />
       <workItem from="1662088365121" duration="457000" />
       <workItem from="1662167382988" duration="4558000" />
-      <workItem from="1662177333015" duration="2092000" />
+      <workItem from="1662177333015" duration="2260000" />
+      <workItem from="1662321994571" duration="2093000" />
     </task>
+    <task id="LOCAL-00001" summary="EJ 1 AND 2 FROM PRACTICA 1 ARENA">
+      <created>1662179498094</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662179498094</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
